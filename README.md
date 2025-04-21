@@ -52,3 +52,31 @@ I'd love to hear your thoughts or suggestions from the community!
 #LinkedInLearning
 
 #Analytics
+
+
+
+
+
+# Mental Health Data Analysis
+
+This project analyzes trends in mental health treatment across different demographics in the United States, with a focus on the use of prescription medication for mental health over time. The analysis is performed using Python libraries such as Pandas, Matplotlib, and Seaborn.
+
+## 📁 Files
+
+- `CA2 notebook.ipynb`: The main Jupyter notebook containing the data analysis and visualizations.
+- `Python ca2 report.docx`: A written report summarizing the findings and interpretations.
+- `Mental.csv`: The dataset used (you'll need to upload this separately if it's not included).
+
+## 📊 Key Analysis
+
+- Line plot of medication usage trends over time.
+- Bar chart showing average usage by age group.
+- Comparative visualization of mental health medication usage across different phases.
+
+## 📦 Dependencies
+
+To run the notebook, you'll need the following Python libraries:
+
+```bash
+pip install numpy pandas matplotlib seaborn
+
